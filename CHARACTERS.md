@@ -1,11 +1,11 @@
 # List of characters
 
-- Agad (Arzak)
+- Argad (Arzak)
 - Delia (Cordelia)
 - Juan
 - Firion
 
-# Agad
+# Argad
 
 He is modeled after Arzak / Yupa. He is 50 something old guy. Wears khaki long hat. He is an engineer.
 
