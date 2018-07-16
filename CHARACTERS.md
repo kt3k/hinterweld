@@ -13,9 +13,9 @@ He is modeled after Arzak / Yupa. He is 50 something old guy. Wears khaki long h
 
 She is modeled after Nausicaa / Krile. She is a young girl.
 
-# Juan
+# Chid
 
-He is loosely modeled after Vincent / Edgar. He is a young engineer.
+He is loosely modeled after Vincent (FFVII) / Edgar (FFV). He is a young engineer.
 
 # Firion
 
